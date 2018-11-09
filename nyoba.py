@@ -14,7 +14,7 @@
 
 import spammer_class
 spammer = spammer_class.Spammer()
-spammer.author = "P4kL0nc4t"
+spammer.author = "Si NITA GEMBROT TAU SEMUA SELINGKUHMU NIA"
 try:
     spammer.main()
 except KeyboardInterrupt:
